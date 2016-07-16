@@ -3,7 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<div  class="part1" markdown="1">
+![Ahmed Abu Taha -personal][0]
+</div>
+<div class="part2" markdown="1">
 Ahmed Abu Taha is an entrepreneur and a self-taught full-stack web developer and for the past five years he's worked for some of the Jordan's best companies.
 
 Working at the very highest level as both a senior developer and senior social media officer, Ahmed provides his experience, knowledge and expertise to clients offering them something more than your average freelancer.
@@ -23,10 +26,8 @@ Working at the very highest level as both a senior developer and senior social m
 {: .skillsList}
 
 - Project Management & Strategy
-- Data Models
 - Social Media Platforms
 - Search Engine Optimization
-- Estimating / Strategy / Planning
 - Client relationship
 - Photoshop
 - Illustrator
@@ -52,6 +53,7 @@ Al-Zaytoonah University of Jordan
 ##### Bachelor of Science Computer Science
 
 After doing web development for some time, I wanted to take it to the next level and understand the underpinnings of the web, programming and the digital domain in general. As a result I started studying computer science.
+</div>
 
 [1]: https://www.youtube.com/watch?v=EcbrttRzvzg
 [2]: /images/1.png 
@@ -67,3 +69,5 @@ After doing web development for some time, I wanted to take it to the next level
 
 [9]: https://www.youtube.com/watch?v=fHb53mDtGAc
 [10]: /images/5.png 
+
+[0]: /images/ahmed.png 
